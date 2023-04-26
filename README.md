@@ -1,0 +1,2 @@
+# stochastic_subgridscale_parameterization
+Calculates stochastic subgrid turbulence parameterization coefficients from high resolution reference simulations.
