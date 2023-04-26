@@ -1,4 +1,4 @@
-# stochastic_subgrid_parameterization
+# stochastic_subgridscale_parameterization
 
 In geophysical and engineering flows it is not possible to resolve all of the scales of motion, so one must resolve the large eddies are explicitly on a computational grid, and parameterise the interactions with the unresolved subgrid-scales. If these subgrid interactions are not properly parameterised, then an increase in resolution will not necessarily increase the accuracy of the resolved scales, hence the dependence on resolution. All simulation codes to date including the most sophisticated general circulation models suffer from this problem. This has wide ranging implications for geophysical research and operational activities, including weather / decadal / climate prediction. 
 
